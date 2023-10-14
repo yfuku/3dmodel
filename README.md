@@ -1,2 +1,3 @@
-CC BY-NC-SA 4.0で公開します。
+CC BY-NC-SA 4.0
+
 https://creativecommons.org/licenses/by-nc-sa/4.0/
